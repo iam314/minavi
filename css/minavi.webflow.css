@@ -152,6 +152,10 @@ body {
   font-size: 16px;
 }
 
+.paragraph.rd {
+  color: #ea5f34;
+}
+
 .right-wrapper {
   display: -webkit-box;
   display: -webkit-flex;
@@ -351,6 +355,14 @@ body {
 .information {
   margin-top: 8px;
   margin-bottom: 36px;
+}
+
+.div-block-3 {
+  overflow: auto;
+}
+
+.wallet-w {
+  overflow: auto;
 }
 
 @media screen and (max-width: 991px) {
