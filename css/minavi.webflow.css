@@ -206,7 +206,7 @@ body {
 }
 
 .links.link-txt {
-  font-size: 2.1vw;
+  font-size: 1.8vw;
   cursor: pointer;
 }
 
@@ -363,6 +363,11 @@ body {
 
 .wallet-w {
   overflow: auto;
+}
+
+.link-3 {
+  color: #ea5f34;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 991px) {
